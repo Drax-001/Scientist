@@ -121,4 +121,8 @@ footer {
   margin-top: 2rem;
   padding: 0.1rem;
 }
+
+footer cite {
+  margin-left: 1rem;
+}
 /*# sourceMappingURL=style.css.map */
